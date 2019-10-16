@@ -9,7 +9,7 @@ Desenvolvido por:
 Tutorial de criação deste app: http://bit.ly/2Zry7Uh
 
 <p align="center">
-    <img src="https://miro.medium.com/max/1440/1*VzcayMW3lUkbyc9DRSHcGA.png" weight="800"/>
+    <img src="https://i.ibb.co/z23tZ3w/imgh-calc-1.jpg" weight="800"/>
 </p>
 
 ## Como clonar e importar
