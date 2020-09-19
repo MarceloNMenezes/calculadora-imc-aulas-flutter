@@ -8,7 +8,7 @@ class Pessoa {
 
   int sexo;
   double peso, altura;
-  Color color = Colors.black;
+  Color color = Colors. black;
 
   Pessoa({this.sexo, this.peso, this.altura, this.result, this.resultado});
 
